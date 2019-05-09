@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Converter</string>
+    <string name="title_name">Welcome To My Converter!</string>
+    <string name="button_InchToMetre_Name"> Inch to Metre </string>
+</resources>
